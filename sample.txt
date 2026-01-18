@@ -1,5 +1,2 @@
-My first commit
-my second commit
-my first stash
-my test stash
+hello
 
